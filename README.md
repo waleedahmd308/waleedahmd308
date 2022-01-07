@@ -24,7 +24,7 @@
 <a href="https://twitter.com/@fswaleed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fswaleed1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fs waleed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fs waleed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/waleed ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="waleed ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/frazali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frazali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006723166595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frazali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
