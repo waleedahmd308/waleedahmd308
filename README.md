@@ -9,15 +9,24 @@
 
 <p align="left"> <a href="https://twitter.com/@fswaleed1" target="blank"><img src="https://img.shields.io/twitter/follow/@fswaleed1?logo=twitter&style=for-the-badge" alt="@fswaleed1" /></a> </p>
 
-- 🔭 I’m currently working on **Transword(a word changing  app )**
-
-- 🌱 I’m currently learning **C#, Kotin ,Flutter and JS**
+- 🔭 I’m currently working on Creating AI powered Meditation for android and iphone **
 
 - 👯 I’m looking to collaborate with **Who wants to grow money with me on Play Store and App store**
 
 - 📫 How to reach me **waleed.mtech@gmail.com**
 
 - ⚡ Fun fact ** I can't write code in pair programming**
+
+<h3 align="left">🚀 Featured App</h3>
+
+<p align="left">
+  🌱 <strong>Plantake Float</strong> — A productivity & planning web app  
+  <br />
+  🔗 <a href="https://plantake.com/float" target="_blank" rel="noreferrer">
+    https://plantake.com/float
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
