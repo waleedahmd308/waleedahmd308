@@ -20,7 +20,7 @@
 <h3 align="left">🚀 Featured App</h3>
 
 <p align="left">
-  🌱 <strong>Plantake Float</strong> — A productivity & planning web app  
+  🌱 <strong>Plantake Float</strong> — A Meditation and Journal application  
   <br />
   🔗 <a href="https://plantake.com/float" target="_blank" rel="noreferrer">
     https://plantake.com/float
